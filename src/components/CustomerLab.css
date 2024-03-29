@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  .container {
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    max-width: 400px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .popup {
+    margin-top: 20px;
+  }
+  
+  input[type="text"],
+  select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+  
+  .schema-item {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .schema-item label {
+    margin-right: 10px;
+  }
+  
+  .blue-box {
+    margin-top: 20px;
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .add-schema-button {
+    background-color: #28a745;
+  }
+  
+  .save-segment-button {
+    display: block;
+    margin: 20px auto;
+  }
+  
+  .schema-select {
+    margin-top: 10px;
+  }
+  
+  .schema-label {
+    margin-top: 10px;
+    display: block;
+  }
+  
